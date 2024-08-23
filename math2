@@ -1,0 +1,5 @@
+miles = 5
+minutes = 45
+hours = minutes / 60
+mph = miles / hours
+print("how many miles did you run?", miles)
